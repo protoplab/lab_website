@@ -5,3 +5,7 @@
 /resources/
 public/
 assets/jsconfig.json
+
+# Added by author
+.hugo_build.lock
+go.sum
